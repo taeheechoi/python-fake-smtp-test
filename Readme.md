@@ -6,11 +6,11 @@
 ### Result
 - mail/10_26_2021_1635303337.eml
 ```
-    b'From: From Person <from@fromdomain.com>
-    To: To Person <to@todomain.com>
-    Subject: SMTP e-mail test
+    b'From: From Person <from_email@test.com>
+    To: To Person <to_email@test.com>
+    Subject: Fake SMTP e-mail test
 
-    This is a test e-mail message.'
+    This is a fake e-mail message.'
 ```
 
 ### References
