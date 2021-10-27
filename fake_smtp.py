@@ -5,7 +5,7 @@ from datetime import datetime
 from pathlib import Path
 
 
-def get_date_time_stamp() -> str:
+def get_date_time_stamp():
     today = datetime.now()
     timestamp = str(today.timestamp()).split('.')[0]
     return f'{today:%m_%d_%Y}_{timestamp}' # 10_26_2021_1635302925
