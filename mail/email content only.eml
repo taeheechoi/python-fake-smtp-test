@@ -1,0 +1,5 @@
+b'From: From Person <from_email@test.com>
+To: To Person <to_email@test.com>
+Subject: Fake SMTP e-mail test
+
+This is a fake e-mail message.'

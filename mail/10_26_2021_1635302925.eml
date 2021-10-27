@@ -1,5 +1,0 @@
-<__main__.FakeSMTPServer listening 127.0.0.1:2525 at 0x7f884019fc10>
-('127.0.0.1', 57750)
-from@fromdomain.com
-['to@todomain.com']
-b'From: From Person <from@fromdomain.com>\nTo: To Person <to@todomain.com>\nSubject: SMTP e-mail test\n\nThis is a test e-mail message.'

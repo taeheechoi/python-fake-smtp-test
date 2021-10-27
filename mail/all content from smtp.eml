@@ -1,0 +1,5 @@
+<__main__.FakeSMTPServer listening 127.0.0.1:2525 at 0x7f884019fc10>
+('127.0.0.1', 57750)
+from_email@test.com
+['to_email@test.com']
+b'From: From Person <>\nTo: To Person <to_email@test.com>\nSubject: Fake SMTP e-mail test\n\nThis is a fake e-mail message.'
